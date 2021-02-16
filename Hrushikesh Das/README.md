@@ -18,13 +18,13 @@
 
 ### _About Me :_
 
- My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutter
+ **_My name is Hrushikesh. I’m a junior from 🇮🇳 I'm a full-stack js developer 💻, flutter
     developer 📱, mentor 👨‍🏫 and, a learner 📕. I'm deeply passionate about software
-    development. I believe in the power of community and love community-based learning.
+    development. I believe in the power of community and love community-based learning._**
 
 ### _Education :_
 
- Pursuing B.tech on the domain of CSE 🖥 @[GIET University, Gunupur](https://www.giet.edu/)
+ **_Pursuing B.tech on the domain of CSE 🖥 @[GIET University, Gunupur](https://www.giet.edu/)_**
 
 ### _Tech Stack:_
 
